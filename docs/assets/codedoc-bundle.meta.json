@@ -64,18 +64,18 @@
       "name": "postNavSearch",
       "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
       "hash": "HES/Hy+MRDq3mvizzA+IOQ=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
+      "hash": "2zLA5ElQxJZ3PmAo3VsG1A=="
     }
   ],
   "components": [
     {
-      "name": "TabSelector",
-      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
-      "hash": "bcZDyyDMmiAJXhQswoYcoQ=="
-    },
-    {
-      "name": "CollapseControl",
-      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
-      "hash": "iLVWldLo5BvQXvR3ryShmg=="
+      "name": "ToCPrevNext",
+      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "bdvnXSUbZghEDX6qMcrwxg=="
     },
     {
       "name": "ToCToggle",
@@ -93,9 +93,14 @@
       "hash": "vCLSAyCnLGGVKoV415QQKg=="
     },
     {
-      "name": "ToCPrevNext",
-      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
-      "hash": "bdvnXSUbZghEDX6qMcrwxg=="
+      "name": "TabSelector",
+      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "bcZDyyDMmiAJXhQswoYcoQ=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "iLVWldLo5BvQXvR3ryShmg=="
     }
   ],
   "renderer": {

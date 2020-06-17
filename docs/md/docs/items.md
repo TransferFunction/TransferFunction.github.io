@@ -10,4 +10,10 @@
 * Location: [Temple of the Moon Queen](/docs/locations#temple-of-the-moon-queen)
 ![crown.png](/docs/assets/crown.png)
 
+## Fan
+
+
+## Orb
+From bonewall?
+
 > :ToCPrevNext

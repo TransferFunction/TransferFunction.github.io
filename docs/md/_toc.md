@@ -4,8 +4,7 @@
 [Journal](/docs/journal)
 [Locations](/docs/locations)
 [NPCs](/docs/npcs)
+[Factions](/docs/factions)
 
-<br><br>
-
-To add links to your other documents, simply
-modify contents of `docs/md/_toc.md`.
+<!-- To add links to your other documents, simply
+modify contents of `docs/md/_toc.md`. -->
