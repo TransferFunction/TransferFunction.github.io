@@ -36,9 +36,12 @@ We met a witch that told us our fortunes.
 
 ## Session 8 Jun 2020
 * Locations: [Bywall](/docs/locations#bywall)
-Went to the [Bywall](/docs/locations#bywall) went to the inn. Started a bar fight. Were told we can get tokens from the guilds or the mayor. Met with [Grom](/docs/npcs#grom) to with a tournament and enter our way into the arena. Later that night [Llywd](/docs/party#llwyd-urswick), [Beef](/docs/party#beef), and [Dew](/docs/party#bwoop-bwoop-\(dew\)) snuck into [Groms](/docs/npcs#grom) meeting room and found a trap door that chuted into an owlbear den.
+Went to the [Bywall](/docs/locations#bywall) went to the inn. [Megolas](/docs/party#megolas) found a man named [Damian](/docs/npcs#damian). He said he'd give the group passage to haven for a great price. Started a bar fight with dwarves. Were told we can get tokens from the guilds or the mayor. Met with [Grom](/docs/npcs#grom) to with a tournament and enter our way into the arena. Later that night [Llywd](/docs/party#llwyd-urswick), [Beef](/docs/party#beef), and [Dew](/docs/party#bwoop-bwoop-\(dew\)) snuck into [Groms](/docs/npcs#grom) meeting room and found a trap door that chuted into an owlbear den.
 
 ## Session 15 Jun 2020
-Entered the arena. Fought two basilisks and a two lizard wizards (lwizards?) inside an arena with a aqueduct running through. Short rested and fought in an arena with the skeletal remains of a dragon and fought two bulettes. 
+Entered the arena. Fought two basilisks and a two lizard wizards (lwizards?) inside an arena with a aqueduct running through. Short rested and fought in an arena with the dragon skeletal remains of a dragon and fought two bulettes. 
+
+## Session 22 Jun 2020
+Fought two giants. Damian interfered and 
 
 > :ToCPrevNext

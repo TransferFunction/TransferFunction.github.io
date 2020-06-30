@@ -9,11 +9,19 @@ A town on a bridge. They charge more if you're an adventurer and not a farmer.
 ## Bywall
 * NPCs
     * Damian
-        Flirted with Megolas
+    * [Grom](/docs/npcs#Grom) 
+    * Bloodworks master
+    * Gorenash
+* Bloodworks
+    * Bloodworks is the staging area for the tournaments for the gladiators.
 * Floated Back Inn
 
 ## Haven
-It has entrances and exits but not used very often. The walls are built from titans.
+* NPCs
+    * [Lord Sev](/docs/npcs#lord-sev)
+    * [Captain Ganval](/docs/npcs#captain-ganval)  
+It has entrances and exits but not used very often. The walls are built from titans.  
+![haven map](/docs/assets/haven-map.png)
 
 # Dungeons
 
