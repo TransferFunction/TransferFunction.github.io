@@ -64,11 +64,6 @@
       "name": "postNavSearch",
       "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
       "hash": "HES/Hy+MRDq3mvizzA+IOQ=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "E:/Code/TransferFunction.github.io/.codedoc/node_modules/@codedoc/core/dist/es5/serve/reload.js",
-      "hash": "2zLA5ElQxJZ3PmAo3VsG1A=="
     }
   ],
   "components": [
