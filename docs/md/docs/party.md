@@ -7,7 +7,7 @@ Sorted alphabetically
 From Farmsville
 
 ## Bwoop Bwoop (Dew)
-![Dew](/docs/assets/dew.png)  
+![dew-pic](/docs/assets/dew.png)  
 * Spore Druid
 * Kenku
 * Languages:
@@ -15,19 +15,20 @@ From Farmsville
     * Auran
 
 ## Llwyd Urswick
-![Llywd Urswick](/docs/assets/llywd.png)  
+![llywd-pics](/docs/assets/llywd.png)  
 * Wizard
 * Human  
 
 
 ## Megolas
-![Megolas](/docs/assets/megolas.png)  
+![megolas-pic](/docs/assets/megolas.png)  
 * Beast Master Ranger
 * Elf
 * Languages:
     * Sylvan
 
 ## Mungo 'Freefoot' Cotton
+![mungo-pic](/docs/assets/mungo.png) 
 * Valor Bard
 * Halfling
 

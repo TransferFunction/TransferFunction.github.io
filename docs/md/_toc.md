@@ -1,6 +1,7 @@
 [Home](/)
 [Items](/docs/items)
 [Party](/docs/party)
+[Guild Hall](/docs/guild-hall)
 [Journal](/docs/journal)
 [Locations](/docs/locations)
 [NPCs](/docs/npcs)

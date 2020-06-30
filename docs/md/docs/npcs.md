@@ -22,4 +22,7 @@ Old man
 ## Captain Ganval
 Captain in [Haven](/docs/locations#Haven)
 
+## Unnamed Dragon
+Crashed a tournament fight between dew and the boys while they were fighting for entry into [Haven](/docs/locations#Haven). Called the Dragon rider. Red dragon. Burned Bywall to the ground.
+
 > :ToCPrevNext

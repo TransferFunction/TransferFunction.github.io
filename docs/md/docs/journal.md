@@ -4,7 +4,7 @@
 We were on a boat. Claw cultist ambushed the boat. The party followed the cultist to a camp nearby. Found the orb that was stolen.
 
 ## Session 2 
-We were chased by a gnoll back to the ship with the orb and gave it to Lord Sev. 
+We were chased by a gnoll back to the ship with the orb and gave it to [Lord Sev](/docs/npcs#lord-sev). 
 
 ## Session 3 
 Dew and the boys stopped in a port town called [Bonewall](/docs/locations#bonewall). Played drinking games snake, ???, and something else.
@@ -39,9 +39,14 @@ We met a witch that told us our fortunes.
 Went to the [Bywall](/docs/locations#bywall) went to the inn. [Megolas](/docs/party#megolas) found a man named [Damian](/docs/npcs#damian). He said he'd give the group passage to haven for a great price. Started a bar fight with dwarves. Were told we can get tokens from the guilds or the mayor. Met with [Grom](/docs/npcs#grom) to with a tournament and enter our way into the arena. Later that night [Llywd](/docs/party#llwyd-urswick), [Beef](/docs/party#beef), and [Dew](/docs/party#bwoop-bwoop-\(dew\)) snuck into [Groms](/docs/npcs#grom) meeting room and found a trap door that chuted into an owlbear den.
 
 ## Session 15 Jun 2020
-Entered the arena. Fought two basilisks and a two lizard wizards (lwizards?) inside an arena with a aqueduct running through. Short rested and fought in an arena with the dragon skeletal remains of a dragon and fought two bulettes. 
+Entered the arena. Fought two [basilisks](https://forgottenrealms.fandom.com/wiki/Basilisk) and a two lizard wizards (lwizards?) inside an arena with a aqueduct running through. Short rested and fought in an arena with the dragon skeletal remains of a dragon and fought two [bulettes](https://forgottenrealms.fandom.com/wiki/Bulette). 
 
 ## Session 22 Jun 2020
-Fought two giants. Damian interfered and 
+Fought two giants. Damian interfered during the battle and helped the giants.
+
+Entered the arena for the final battle. Got duped by 3 ooze illusions then back stabbed by bunch of rogues. Recovered from a rough start. Then the battle got interrupted by a dragon landing in the middle of the arena.
+
+## Session 29 Jun 2020
+Went to court. Was approved citizenship for Haven by default because the rogues jail broke themselves. Visited lord Sev. Made a contract in blood with him. Received a [bag of holding](/docs/items#bag-of-holding) with 5k gp and 5k gp left in bank notes. Megolas and Llywd went house hunting. Bought a guildhall
 
 > :ToCPrevNext
