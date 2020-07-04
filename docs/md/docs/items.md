@@ -23,7 +23,7 @@ The heart was used in a war machine that caused people to panic nearby. The hear
 From bonewall?
 
 ## Bag of Holding
-[description](https://roll20.net/compendium/dnd5e/Bag%20of%20Holding#content)
+[description](https://roll20.net/compendium/dnd5e/Bag%20of%20Holding#content)  
 Received it from [Lord Sev](/docs/npcs#lord-sev) after meeting him the first time in Haven. He filled it with 5k gold pieces.
 
 > :ToCPrevNext

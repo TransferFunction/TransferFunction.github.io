@@ -1,3 +1,7 @@
 # Guild Hall
+* Library (Study)
+* Garden
+* Walls?
 
-## Dew's room
+
+> :ToCPrevNext
