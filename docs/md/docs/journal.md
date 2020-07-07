@@ -49,4 +49,19 @@ Entered the arena for the final battle. Got duped by 3 ooze illusions then back 
 ## Session 29 Jun 2020
 Went to court. Was approved citizenship for Haven by default because the rogues jail broke themselves. Visited lord Sev. Made a contract in blood with him. Received a [bag of holding](/docs/items#bag-of-holding) with 5k gp and 5k gp left in bank notes. Megolas and Llywd went house hunting. Bought a guildhall
 
+## Session 6 Jul 2020
+Met [Lord Sev](/docs/npcs#lord-sev) at an uppity place. He gave us a list of quests
+
+1. Savage coast looking for a high Elven. 3 month old report. The entire archeological team has disappeared assumed dead.
+1. Ultvara archeological zone. Large central parkques in Haven. JB rebels have a heart?
+1. "The light house has appeared again" with coordinates.
+
+Then we had a party. Went and met [Jameson](/docs/npcs#jameson) in [Ultvara Zone](/docs/locations#ultvara-zone), tunneled for a day to a bandit camp. When the party arrived the bandit camp was empty. Entered the cave and found a door with
+
+```
+Aldric Lord of the Sky and Everything Below It. Son of Heaven. King of King. Imperishable. Unforgiving. Without Mercy
+```
+
+inscribed on it. Open the door it's full of mist. Mungo takes the leave of faith off a ledge and into a woodland.
+
 > :ToCPrevNext

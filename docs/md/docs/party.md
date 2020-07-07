@@ -4,7 +4,7 @@ Sorted alphabetically
 ## Beef
 * Barbarian  
 * Dog person
-From Farmsville
+From Farmsville. Mom's out there somewhere. Left.
 
 ## Bwoop Bwoop (Dew)
 ![dew-pic](/docs/assets/dew.png)  
@@ -18,6 +18,8 @@ From Farmsville
 ![llywd-pics](/docs/assets/llywd.png)  
 * Wizard
 * Human  
+
+Nemesis: Bandit Kraal has a face scar.
 
 
 ## Megolas
